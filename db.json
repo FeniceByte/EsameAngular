@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "utente1",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "username": "utente2",
+      "password": "password456"
+    }
+  ],
+  "clienti": [
+    {
+      "id": "1",
+      "codiceFiscale": "RSAMRP78B12H501I",
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "dataNascita": "1980-01-01",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "codiceFiscale": "MRXRSS80A01H501N",
+      "nome": "Sara",
+      "cognome": "Verdi",
+      "dataNascita": "1985-05-15",
+      "userId": 2
+    },
+    {
+      "id": "03a4",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "6e95",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "bee2",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "d02c",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "d7c8",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "c60a",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "cbc3",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    },
+    {
+      "id": "791f",
+      "codiceFiscale": "2345GTYH5678J",
+      "nome": "CARLO",
+      "cognome": "ROSSI",
+      "dataNascita": "1980-01-01",
+      "userId": "1"
+    }
+  ]
+}
